@@ -1,4 +1,4 @@
-package chapterB;
+
 
 /*Author: 	Peter Mbanda
 *Program: 	Inches to feet  interactive java 

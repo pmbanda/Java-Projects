@@ -1,4 +1,4 @@
-package chapterE;
+
 
 /*Author: 	Peter Eugene Mbanda
 *Program:	Random card picks

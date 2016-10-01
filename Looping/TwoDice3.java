@@ -1,4 +1,4 @@
-package chapterF;
+
 //Author:	 Peter Eugene Mbanda
 //Date:		 3/11/2015
 //Purpose:	 Determine the game of dice by player and determine if they win or lose

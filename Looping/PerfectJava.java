@@ -1,4 +1,4 @@
-package chapterF;
+
 //Author:	Peter Eugene Mbanda
 //Date:		modified 1/3/2016
 //Purpose: 	determine the numbers that go evenly on the selected numbers

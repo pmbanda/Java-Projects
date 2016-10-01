@@ -1,4 +1,4 @@
-package chapterC;
+
 
 /*Author:	Peter Eugene Mbanda 
 *Date:		January 15th 2015

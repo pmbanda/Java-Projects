@@ -1,4 +1,4 @@
-package chapterA;
+
 
 //Author: 	Peter Eugene Mbanda
 //Program: 	Modify display the console message  

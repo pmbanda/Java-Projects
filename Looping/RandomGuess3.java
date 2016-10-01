@@ -1,4 +1,4 @@
-package chapterF;
+
 //Author: Peter Mbanda
 //program: Random guess 
 //date: 3/9/2015

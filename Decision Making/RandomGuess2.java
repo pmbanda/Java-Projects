@@ -1,4 +1,4 @@
-package chapterE;
+
 
 //Author: Peter Mbanda
 //program: Random guess 

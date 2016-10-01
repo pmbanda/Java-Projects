@@ -1,4 +1,4 @@
-package chapterF;
+
 public class Factorials
 {
 		static final int NUMBER = 11;//numbers to be determined 

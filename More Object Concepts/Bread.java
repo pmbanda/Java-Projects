@@ -1,4 +1,4 @@
-package chapterD;
+
 //Author:	Peter Eugene Mbanda 
 //Date:		2/10/2015
 //Program:	Compute bread and the amount of calorie

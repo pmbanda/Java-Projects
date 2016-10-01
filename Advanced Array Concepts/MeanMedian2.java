@@ -1,4 +1,4 @@
-package chapterI;
+
 
 /*Author 	Peter Eugene Mbanda
  * Program 		Array of sorting Strings in Java

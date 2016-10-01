@@ -1,4 +1,4 @@
-package chapterG;
+
 
 //Author:	Peter Eugene Mbanda
 //Date:		3/30/2015

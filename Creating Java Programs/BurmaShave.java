@@ -1,4 +1,4 @@
-package chapterA;
+
 
 //Author: 	Peter Eugene Mbanda
 //Program: 	Burma shaving signs  

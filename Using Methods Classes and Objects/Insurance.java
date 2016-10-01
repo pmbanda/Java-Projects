@@ -1,4 +1,4 @@
-package chapterC;
+
 
 //Author:	Peter Mbanda
 //Date:		1/16/2015

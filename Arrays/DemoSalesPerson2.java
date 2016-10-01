@@ -1,4 +1,4 @@
-package chapterH;
+
 
 /*Author:		Peter Eugene Mbanda
 *Purpose:		Create main method to execute class sales person

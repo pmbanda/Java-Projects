@@ -1,4 +1,4 @@
-package chapterH;
+
 
 /*Author:		Peter Eugene Mbanda
 *Purpose:		Create class containning the ID and sales person

@@ -1,4 +1,4 @@
-package chapterH;
+
 public class CollegeCourse 
 {
 	//create the class attributes

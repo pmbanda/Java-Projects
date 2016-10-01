@@ -1,4 +1,4 @@
-package chapterD;
+
 //Author:	Petet Eugene Mbanda
 //Date:		2/11/2015
 //purpose:	compute the length of time between now and end year

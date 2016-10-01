@@ -1,4 +1,4 @@
-package chapterC;
+
 
 /*Author:	Peter Eugene Mbanda
 *Program: 	Display user accounts information

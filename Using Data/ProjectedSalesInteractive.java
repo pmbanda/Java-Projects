@@ -1,4 +1,4 @@
-package chapterB;
+
 
 /*Author: 	Peter Mbanda
 *Program: 	Project sales interactive java 

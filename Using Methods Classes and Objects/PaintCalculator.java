@@ -1,4 +1,4 @@
-package chapterC;
+
 
 //Author:	Peter Mbanda
 //Purpose:	Calculate the amount of paint used with the price of the gallon of paint

@@ -1,4 +1,4 @@
-package chapterD;
+
 //Author: 	Peter Mbanda
 //Date:		3/27/2015
 //Purpose:	Determine the calendar object

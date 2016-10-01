@@ -1,4 +1,4 @@
-package chapterF;
+
 //Author:	Peter Eugene Mbanda
 //Date:		3/6/2015
 //Purpose:	Determine the retirement
