@@ -14,6 +14,7 @@ public class CondoSales
 
 		Scanner input = new Scanner(System.in);//create the scanner object
 		System.out.println();
+		System.out.println();
 
 		//prompt the uset for the type of view
 		System.out.println("Hello! Please enter 1 for park view, 2 for golf course view, 3 for lake view ");
@@ -52,5 +53,6 @@ public class CondoSales
 			System.out.println("Make the correct selection of 1 2 or 3 ");
 		}
 		input.close();
+		System.out.println();
 	}
 }
