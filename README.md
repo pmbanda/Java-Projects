@@ -14,12 +14,10 @@ Step 2: Install JDK and JRE
 
 Run the downloaded installer (e.g., "jdk-8u{xx}-windows-x64.exe"), which installs both the JDK and JRE. By default, the JDK will be installed in directory "C:\Program Files\Java\jdk1.8.0_xx", where xx denotes the latest upgrade number; and JRE in "C:\Program Files\Java\jre1.8.0_xx".
 
-For novices, accept the defaults. Follow the screen instructions to install JDK and JRE.
 
 Check the JDK installed directory by inspecting these folders using File Explorer. Take note of your JDK installed directory, which you will need in the next step.
 
 JDK_Path.png
-I shall refer to the JDK installed directory as <JAVA_HOME>, hereafter, in this article.
 
 Step 3: Include JDK's "bin" Directory in the PATH
 
@@ -34,6 +32,7 @@ Under "System Variables", scroll down to select "Path" ⇒ "Edit...".
 For Windows 10: You see a table listing the existing PATH entries. Click "New" ⇒ Enter the JDK's binary directory "c:\Program Files\Java\jdk1.8.0_xx\bin" (Replace xx with your installation's upgrade number!!!) ⇒ Select "Move Up" to move it all the way to the top.
 
 Prior to Windows 10: In "Variable value" field, INSERT "c:\Program Files\Java\jdk1.8.0_xx\bin" (Replace xx with your installation upgrade number!!!) IN FRONT of all the existing directories, followed by a semi-colon (;) which separates the JDK's binary directory from the rest of the existing directories. DO NOT DELETE any existing entries; otherwise, some existing applications may not run.
+
 Variable name  : PATH
 Variable value : c:\Program Files\Java\jdk1.8.0_xx\bin;[exiting entries...]
 
