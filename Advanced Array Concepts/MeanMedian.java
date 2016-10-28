@@ -28,6 +28,7 @@ public class MeanMedian
 		mean = ( double )( total / digits.length );
 		System.out.printf("The mean is %.2f", mean  );//print out the mean value 
 		System.out.println();
+System.out.println();
 	}
 	public static void calculateMedian( int [] digits )
 	{
