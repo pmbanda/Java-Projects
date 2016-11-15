@@ -2,7 +2,8 @@
 *Date:		9/8/2015
 *Purpose:	Auto app
 */
-public abstract class Auto{
+public abstract class Auto
+{
 
 	//declare the variables 
 	private String carMake;
@@ -17,7 +18,7 @@ public abstract class Auto{
 		return price;
 	}
 
-	//create the mutator method for setting the make of the car 
+	//create the mutator method for setting the make of the car
 	public void setCarMake( String make ){
 		carMake = make;
 	}
