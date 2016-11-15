@@ -19,7 +19,6 @@ public class FiveDice2
 	{
 		//Computer dice roll 
 		int num = compDiceRoll();//method call to determine the dice rolls by computer 
-		System.out.println();
 		System.out.println();	
 		
 		int num1 = humanDiceRoll();//method call to determine the dice rolls by user
